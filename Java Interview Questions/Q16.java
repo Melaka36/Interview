@@ -3,8 +3,8 @@ class Q16{
     public static void main (String args[]){
         System.out.println("He");
         
-        // A a=new A();
-        Q16 a=new Q16();
+        A a=new A();
+        // Q16 a=new Q16();
         System.out.println(a.a);
     }
     
