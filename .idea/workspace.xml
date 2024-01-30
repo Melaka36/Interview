@@ -1,21 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="454fbfa6-0978-4403-b98b-b363f606beca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreadClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example2/ConstructorsJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example2/Hash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example2/MyThread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example2/MyThread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example2/Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example2/TestSynchronizationMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+    <list default="true" id="454fbfa6-0978-4403-b98b-b363f606beca" name="Changes" comment="practiced">
+      <change afterPath="$PROJECT_DIR$/src/Interview/LinkedListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interview/singletonEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +53,21 @@
       <workItem from="1704989761910" duration="2127000" />
       <workItem from="1705455888734" duration="4090000" />
       <workItem from="1705566554338" duration="1025000" />
+      <workItem from="1705678661259" duration="676000" />
+      <workItem from="1705776802607" duration="5879000" />
+      <workItem from="1706047263122" duration="1353000" />
+      <workItem from="1706344035598" duration="1054000" />
+      <workItem from="1706445361135" duration="1196000" />
+      <workItem from="1706576249294" duration="811000" />
     </task>
+    <task id="LOCAL-00001" summary="practiced">
+      <created>1705678711521</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705678711521</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,6 +83,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="practiced" />
+    <option name="LAST_COMMIT_MESSAGE" value="practiced" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
